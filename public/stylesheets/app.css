@@ -1,0 +1,24 @@
+body{
+	background: #bdc3c7;
+}
+
+.menu{
+	background: #2c3e50 !important;
+}
+
+.main.container{
+	margin: 6.0em;
+}
+
+.grey.button{
+	color: rgba(0,0,0,.87) !important;
+}
+
+#delete{
+	display: inline;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+}
